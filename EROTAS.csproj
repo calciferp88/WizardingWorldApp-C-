@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3D344E2-2E76-4965-8946-5BEDA521A8A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FirstAssignment</RootNamespace>
+    <AssemblyName>FirstAssignment</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="firstload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firstload.Designer.cs">
+      <DependentUpon>firstload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChooseTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChooseTeam.Designer.cs">
+      <DependentUpon>frmChooseTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreatingWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreatingWait.Designer.cs">
+      <DependentUpon>frmCreatingWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDelay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDelay.Designer.cs">
+      <DependentUpon>frmDelay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLOgOUtWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLOgOUtWait.Designer.cs">
+      <DependentUpon>frmLOgOUtWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQudditch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQudditch.Designer.cs">
+      <DependentUpon>frmQudditch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuestion.Designer.cs">
+      <DependentUpon>frmQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.Designer.cs">
+      <DependentUpon>frmStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserLogin.Designer.cs">
+      <DependentUpon>frmUserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Race.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Race.Designer.cs">
+      <DependentUpon>Race.cs</DependentUpon>
+    </Compile>
+    <Compile Include="funnnnnn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="funnnnnn.Designer.cs">
+      <DependentUpon>funnnnnn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ll.Designer.cs">
+      <DependentUpon>ll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Potter_DS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Potter_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spell.Designer.cs">
+      <DependentUpon>Spell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sure.Designer.cs">
+      <DependentUpon>sure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Registeration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Registeration.Designer.cs">
+      <DependentUpon>User_Registeration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="firstload.resx">
+      <DependentUpon>firstload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChooseTeam.resx">
+      <DependentUpon>frmChooseTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreatingWait.resx">
+      <DependentUpon>frmCreatingWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDelay.resx">
+      <DependentUpon>frmDelay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLOgOUtWait.resx">
+      <DependentUpon>frmLOgOUtWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQudditch.resx">
+      <DependentUpon>frmQudditch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuestion.resx">
+      <DependentUpon>frmQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStart.resx">
+      <DependentUpon>frmStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserLogin.resx">
+      <DependentUpon>frmUserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Race.resx">
+      <DependentUpon>Race.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="funnnnnn.resx">
+      <DependentUpon>funnnnnn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ll.resx">
+      <DependentUpon>ll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Spell.resx">
+      <DependentUpon>Spell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sure.resx">
+      <DependentUpon>sure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Registeration.resx">
+      <DependentUpon>User_Registeration.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Potter_DS.xsc">
+      <DependentUpon>Potter_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Potter_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Potter_DS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Potter_DS.xss">
+      <DependentUpon>Potter_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-11-10.24.20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-11-10.22.16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googlelogo_color_120x44dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50-Beautiful-and-Minimalist-Presentation-Backgrounds-025.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oRX3Zbe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-09.55.12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-09.53.03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-09.53.031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-09.55.121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.31.08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.31.50.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.45.03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.31.501.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.45.031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.45.032.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.31.502.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.45.033.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-03.31.503.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-04.37.12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-11-10.24.201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-12-08.12.04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.32.22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.31.32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.33.24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.33.39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainbow_colors_3-t2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.33.57.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallpapers-For-Galaxy-S4-Colorful-60.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50-Beautiful-and-Minimalist-Presentation-Backgrounds-0251.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.32.51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RjSCmf6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-08.53.54.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-08.52.57.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-09.17.39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-09.12.50.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-and-white-watercolor-background-design_1034-740.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\faded-red-watercolor-background_23-2147836044.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-and-white-watercolor-background-design_1034-7401.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-08.52.571.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-10.09.25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-10.09.03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-10.09.251.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-04.04.50.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-10.09.252.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abstract-Red-Circles-PPT-Templates-680x510.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\faded-red-watercolor-background_23-21478360441.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-and-white-watercolor-background-design_1034-7402.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RjSCmf61.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-11.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RjSCmf62.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-and-white-watercolor-background-design_1034-7403.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-07.45.46.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-07.52.24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-08.12.53.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-08.34.26.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-12.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-13.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-14.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolour-texture-background_1048-6656.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-10.09.253.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-08.52.573.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50-Beautiful-and-Minimalist-Presentation-Backgrounds-0252.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-29-07.06.09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-15-07.45.461.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-14-08.52.574.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-29-08.27.55.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-29-08.27.551.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-29-08.26.52.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-11-10.22.31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-13-07.54.45.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solid-red-fabric-Robert-Kaufman-USA-Red-179485-15.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_12-29-07.06.091.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_01-08-09.01.17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_01-08-09.11.16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_01-08-09.10.10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_01-08-09.15.57.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gallery_hero_il_fullxfull.1138965407_r9ln.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-08.27.28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-08.27.50.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-08.28.13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-08.28.39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-07.11.47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\712vK5vqZgL._SY606_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\712vK5vqZgL._SY606_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hptvthogjt_1_1200x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-07.21.46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hptvthogjt_1_1200x12001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-07.21.461.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-05-07.21.462.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-harry-potter-and-the-deathly-hallows-hogwarts-scho-hogwarts-logo-png-clipart-background-png-mart-5c0343a79233c0.9419738815437177995989%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogwarts-castle-monn-print.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large%287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large%287%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Harry-Potter-Hogwarts-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogwarts-castle-monn-print1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Harry-Potter-Hogwarts-logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01e61cc37113f90b388559d5198634ec.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dT87rzETe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gryffindor-crest-drawing-18-best-pin-by-neta-shribman-on-harry-potter-pinterest-of-gryffindor-crest-drawing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a8ffcc241e1d80079cd7b0a93de72e38.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spider-sorting-hat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.33.53.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.44.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault%282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.29.19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\201904071554648068625.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.33.531.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.441.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_04-07-08.34.141.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%292.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%293.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%294.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99wo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoldenSnitch_PM.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonic.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonic2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonic21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenor.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenor1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99wo1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy%282%295.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonic1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoldenSnitch_PM1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resource\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

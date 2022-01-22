@@ -1,0 +1,58 @@
+E:\L4DC_122\Assignment\Program\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.Properties.Resources.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.csproj.GenerateResource.Cache
+E:\L4DC_122\Assignment\Program\FirstAssignment\bin\Debug\FirstAssignment.exe
+E:\L4DC_122\Assignment\Program\FirstAssignment\bin\Debug\FirstAssignment.pdb
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.exe
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.pdb
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmMain.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmUserLogin.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmProfileEdit.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.csprojResolveAssemblyReference.cache
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmStart.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.Main.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmCreating.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.FrmRegister.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.sure.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\bin\Debug\Interop.WMPLib.dll
+E:\L4DC_122\Assignment\Program\FirstAssignment\bin\Debug\AxInterop.WMPLib.dll
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\Interop.WMPLib.dll
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\AxInterop.WMPLib.dll
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.csproj.ResolveComReference.cache
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frm.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmSearching.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmProperties.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmRating.resources
+E:\L4DC_122\Assignment\Program\FirstAssignment\obj\Debug\FirstAssignment.frmDisplay.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\Interop.WMPLib.dll
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\AxInterop.WMPLib.dll
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.csproj.ResolveComReference.cache
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.exe
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.pdb
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\bin\Debug\FirstAssignment.exe
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\bin\Debug\FirstAssignment.pdb
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\bin\Debug\Interop.WMPLib.dll
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\bin\Debug\AxInterop.WMPLib.dll
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.csprojResolveAssemblyReference.cache
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.frmMain.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.frmProfileEdit.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.frmStart.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.frmUserLogin.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.Properties.Resources.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.sure.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.FrmRegister.resources
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.csproj.GenerateResource.Cache
+E:\DDOOCP\COMPLETE\Code\FirstAssignment\obj\Debug\FirstAssignment.firstload.resources
+E:\Erotas\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+E:\Erotas\FirstAssignment\obj\Debug\Interop.WMPLib.dll
+E:\Erotas\FirstAssignment\obj\Debug\AxInterop.WMPLib.dll
+E:\Erotas\FirstAssignment\obj\Debug\FirstAssignment.csproj.ResolveComReference.cache
+E:\Erotas\FirstAssignment\obj\Debug\FirstAssignment.exe
+E:\Erotas\FirstAssignment\obj\Debug\FirstAssignment.pdb
+E:\Erotas\Erotas Program\bin\Debug\FirstAssignment.exe.config
+E:\Erotas\Erotas Program\obj\Debug\Interop.WMPLib.dll
+E:\Erotas\Erotas Program\obj\Debug\AxInterop.WMPLib.dll
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.csproj.ResolveComReference.cache
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.exe
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.pdb

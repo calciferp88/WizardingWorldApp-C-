@@ -1,0 +1,83 @@
+E:\Erotas\Erotas Program\obj\Debug\Interop.WMPLib.dll
+E:\Erotas\Erotas Program\obj\Debug\AxInterop.WMPLib.dll
+E:\Erotas\Erotas Program\obj\Debug\EROTAS.csproj.ResolveComReference.cache
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.firstload.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.frmDelay.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.frmMain.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.frmStart.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.frmUserLogin.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.Properties.Resources.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.sure.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.FrmRegister.resources
+E:\Erotas\Erotas Program\obj\Debug\EROTAS.csproj.GenerateResource.Cache
+E:\Erotas\Erotas Program\bin\Debug\FirstAssignment.exe.config
+E:\Erotas\Erotas Program\bin\Debug\FirstAssignment.exe
+E:\Erotas\Erotas Program\bin\Debug\FirstAssignment.pdb
+E:\Erotas\Erotas Program\bin\Debug\Interop.WMPLib.dll
+E:\Erotas\Erotas Program\bin\Debug\AxInterop.WMPLib.dll
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.exe
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.pdb
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.MyProfile.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.Setting.resources
+E:\Erotas\Erotas Program\obj\Debug\EROTAS.csprojResolveAssemblyReference.cache
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.logoutwait.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.ll.resources
+E:\Erotas\Erotas Program\obj\Debug\FirstAssignment.frmChooseTeam.resources
+E:\Erotas\Potter Program\bin\Debug\FirstAssignment.exe.config
+E:\Erotas\Potter Program\obj\Debug\Interop.WMPLib.dll
+E:\Erotas\Potter Program\obj\Debug\AxInterop.WMPLib.dll
+E:\Erotas\Potter Program\obj\Debug\EROTAS.csproj.ResolveComReference.cache
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.exe
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.pdb
+E:\Erotas\Potter Program\obj\Debug\EROTAS.csprojResolveAssemblyReference.cache
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.firstload.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmChooseTeam.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmDelay.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmMain.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmStart.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmUserLogin.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.ll.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.Properties.Resources.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.sure.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.FrmRegister.resources
+E:\Erotas\Potter Program\obj\Debug\EROTAS.csproj.GenerateResource.Cache
+E:\Erotas\Potter Program\bin\Debug\FirstAssignment.exe
+E:\Erotas\Potter Program\bin\Debug\FirstAssignment.pdb
+E:\Erotas\Potter Program\bin\Debug\Interop.WMPLib.dll
+E:\Erotas\Potter Program\bin\Debug\AxInterop.WMPLib.dll
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmCreatingWait.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmQuestion.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.funnnnnn.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmLOgOUtWait.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.Race.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.Spell.resources
+E:\Erotas\Potter Program\obj\Debug\FirstAssignment.frmQudditch.resources
+E:\Self Learning\Erotas\Potter Program\bin\Debug\FirstAssignment.exe.config
+E:\Self Learning\Erotas\Potter Program\obj\Debug\Interop.WMPLib.dll
+E:\Self Learning\Erotas\Potter Program\obj\Debug\AxInterop.WMPLib.dll
+E:\Self Learning\Erotas\Potter Program\obj\Debug\EROTAS.csproj.ResolveComReference.cache
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.exe
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.pdb
+E:\Self Learning\Erotas\Potter Program\bin\Debug\FirstAssignment.exe
+E:\Self Learning\Erotas\Potter Program\bin\Debug\FirstAssignment.pdb
+E:\Self Learning\Erotas\Potter Program\bin\Debug\Interop.WMPLib.dll
+E:\Self Learning\Erotas\Potter Program\bin\Debug\AxInterop.WMPLib.dll
+E:\Self Learning\Erotas\Potter Program\obj\Debug\EROTAS.csprojResolveAssemblyReference.cache
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.firstload.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmChooseTeam.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmCreatingWait.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmDelay.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmLOgOUtWait.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmMain.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmQudditch.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmQuestion.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmStart.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.frmUserLogin.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.Race.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.funnnnnn.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.ll.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.Properties.Resources.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.Spell.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.sure.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\FirstAssignment.FrmRegister.resources
+E:\Self Learning\Erotas\Potter Program\obj\Debug\EROTAS.csproj.GenerateResource.Cache
